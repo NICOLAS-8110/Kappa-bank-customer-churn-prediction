@@ -1,3 +1,6 @@
+<img width="1280" height="640" alt="WhatsApp Image 2026-11-17 at 3 00 46 PM (9)" src="https://github.com/user-attachments/assets/97b80bec-383c-478e-b11e-dd4b27546fd8" />
+
+
 # 🏦 Κ Proyecto Kappa | Predicción de Abandono de Clientes en Beta Bank
 
 ## 📋 Descripción
